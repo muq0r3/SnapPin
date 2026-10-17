@@ -5,6 +5,7 @@
 ![WinForms](https://img.shields.io/badge/WinForms-Desktop-0A84FF?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Release](https://img.shields.io/badge/release-v0.1.0-2ea44f?style=for-the-badge)
+![License](https://img.shields.io/github/license/muq0r3/SnapPin?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
@@ -93,3 +94,7 @@ SnapPin/
    ├─ SettingsForm.cs         快捷键与目录设置
    └─ app.ico                 程序与托盘图标
 ```
+
+## 许可证
+
+MIT © 2026 muq0r3
